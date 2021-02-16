@@ -1,0 +1,8 @@
+name: AllesOderNichts
+version: 1.0
+author: DROLPI
+
+main: de.drolpi.allesodernichts.AllesOderNichts
+
+commands:
+  - allesodernichts
